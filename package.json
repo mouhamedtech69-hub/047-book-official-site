@@ -1,0 +1,10 @@
+{
+  "name": "047-book-official-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Official website for 0.47 — The Distance Between Dream and Reality",
+  "dependencies": {
+    "@netlify/blobs": "^10.0.0"
+  }
+}
